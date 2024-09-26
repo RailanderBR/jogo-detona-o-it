@@ -1,1 +1,1 @@
-# jogo-detona-o-it
+# jogo-detona-penny-wise
