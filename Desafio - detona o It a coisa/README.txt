@@ -1,5 +1,5 @@
 
-**De Detona Ralph para Detona It ***
+**De Detona Ralph para Detona Penny Wise ***
 
 Este jogo foi idealizado a partir do curso da Ri Happy - DIO. Porém, o visual foi idealizado para o cenário de It a coisa. O formador foi o Felipe Aguiar - instrutor da DIO, seus dizeres são: "este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript (lembrando que os códigos foi realizado pelo mesmo).
 
